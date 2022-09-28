@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hello, I'am Muhammed
+  Hi, I'am Muhammed
 </h1>
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
